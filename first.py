@@ -27,4 +27,4 @@ async def on_message(message):
     if "F" in tokens:
         await bot.send_message(message.channel, "Respects have been paid")
 
-bot.run("NDQ1NzkzMDM5NDc5MzQxMDU3.DdvqJA.jUio6bJEW9D1FYq9Sv4fYbhJpnQ")
+bot.run("445793039479341057")
