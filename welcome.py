@@ -14,4 +14,4 @@ class MyClient(discord.Client):
 
 
 client = MyClient()
-client.run(os.getenv("NjA4NDEzMzMzMTUzOTA2NzA4.XUo4_A.COSFBXRe_EANUClNPBD-KQKSe4g"))
+client.run("NjA4NDEzMzMzMTUzOTA2NzA4.XUrAeQ.kTWAiDTBULyIqRbKPdmpUNFntp4")
