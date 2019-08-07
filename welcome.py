@@ -14,4 +14,4 @@ class MyClient(discord.Client):
 
 
 client = MyClient()
-client.run("NjA4NDEzMzMzMTUzOTA2NzA4.XUrBDA.ZhPut4MqW8o8gt5ygFlxZTthovw")
+client.run(os.getenv("discord-mojo-token"))
