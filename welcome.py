@@ -21,7 +21,7 @@ Before you continue, we only ask that you read these simple rules and abide by t
 
 3. Last but not least, please respect the time it takes to complete some of these tasks. Some of us have been working for upwards of 24 hours. Please do not be rude if we don't respond immediately. Sometimes we're even just playing a match of PvP! If you message an agent here on the Discord (who's names are in Green, Blue, Purple and Red to be clear!!) you WILL be responded to. Please be patient, we're listening :)
 """)
-        await memeber.send("""That's it! On the discord you'll find a few handy things: A general chat, for all general enquiries and chit chat, dedicated pages for each service. If you would like to get a quote, please copy&paste this 'form' below into the relevant channel and a discord Mod will be in contact with you!
+        await member.send("""That's it! On the discord you'll find a few handy things: A general chat, for all general enquiries and chit chat, dedicated pages for each service. If you would like to get a quote, please copy&paste this 'form' below into the relevant channel and a discord Mod will be in contact with you!
 COPY AND PASTE THIS FORM:
 
 
